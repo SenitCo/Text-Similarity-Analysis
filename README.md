@@ -2,7 +2,7 @@
 Short text similarity analysis based on news.
 
 #### Tool
-jieba: segment Chinese word 
+jieba: segment Chinese word  
 gensim: construct topic model, represent text as vector, and calculate similarity
 
 #### Model
